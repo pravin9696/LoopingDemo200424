@@ -5,7 +5,9 @@ VisualStudioVersion = 17.9.34723.18
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LoopingDemo200424", "LoopingDemo200424.csproj", "{92BCCB2D-9F32-48EE-8991-310B28AD2111}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoopDemo220424", "..\LoopDemo220424\LoopDemo220424.csproj", "{13B7DE17-33A8-4D9A-BF46-9189B84C0A2E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LoopDemo220424", "..\LoopDemo220424\LoopDemo220424.csproj", "{13B7DE17-33A8-4D9A-BF46-9189B84C0A2E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Loop_pattern_230424", "..\Loop_pattern_230424\Loop_pattern_230424.csproj", "{13D69F27-0572-4A21-A624-FA13A066FF6C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{13B7DE17-33A8-4D9A-BF46-9189B84C0A2E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{13B7DE17-33A8-4D9A-BF46-9189B84C0A2E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{13B7DE17-33A8-4D9A-BF46-9189B84C0A2E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{13D69F27-0572-4A21-A624-FA13A066FF6C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13D69F27-0572-4A21-A624-FA13A066FF6C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13D69F27-0572-4A21-A624-FA13A066FF6C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13D69F27-0572-4A21-A624-FA13A066FF6C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
